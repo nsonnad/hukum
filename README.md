@@ -2,9 +2,8 @@
 
 Hukum is a card game invented (I think) in India. I'm not sure how or when it started, but my family has been playing it since I was born and well before.
 
-I have implemented a playable web version of the game made, available here:
-
-```hukum.gigalixirapp.com/``
+I have implemented a playable web version of the game made, available at
+https://hukum.gigalixirapp.com/
 
 The codebase for the game is made up of the following components:
 
@@ -15,7 +14,7 @@ The codebase for the game is made up of the following components:
 To run the game locally, you may do the following:
 
 1. Clone [*hukum-elm-client*](https://github.com/nsonnad/hukum-elm-client) and
-   [hukum-socket-api](https://github.com/nsonnad/hukum-socket-api)
+   [*hukum-socket-api*](https://github.com/nsonnad/hukum-socket-api)
 2. In the `hukum-socket-api` directory, run `mix deps.get` and then `mix phx.server`
 3. In the `hukum-elm-client` directory, run `elm-app start`
 4. Visit `localhost:3000`
