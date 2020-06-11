@@ -1,6 +1,8 @@
 # Hukum
 
-Hukum is a card game invented (I think) in India. I'm not sure how or when it started, but my family has been playing it since I was born and well before.
+Hukum is a card game invented (I think) in India. It appears to only be played
+it Northern Karnataka, where my family is from. I'm not sure how or when it
+started, but my family has been playing it for the past 100 years at least.
 
 I have implemented a playable web version of the game made, available at
 https://hukum.gigalixirapp.com/
